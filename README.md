@@ -30,7 +30,7 @@ pip install -r requirements.txt
 1. Add your Wallet
 
 ```
-nano wallet.txt
+nano wallets.txt
 ```
 
 
